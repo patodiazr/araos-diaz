@@ -32,7 +32,7 @@ h2{
 
 h3{
 	letter-spacing:0.2em;
-	color:rgba(0,0,0,.75);
+	color:rgba(255,255,255,.75);
 	padding:2em 0 0.6em 0;
 	text-shadow: 1px 1px 0 #ccc;
 	text-align:center;
@@ -69,7 +69,7 @@ video{
 
 #somos{
 	width:100%;
-	background:rgb(213,197,174);
+	background:rgb(255,192,5);
 	margin-bottom:2%;
 	}
 
@@ -94,7 +94,7 @@ video{
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:rgba(255,255,255,1);
+	background-color:rgba(0,0,0,1);
 	background-image:url('media/dupla-01.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
@@ -111,7 +111,7 @@ video{
 .segunda{
 	min-height:300px;
 	text-align:right;
-	background-color:rgba(255,255,255,1);
+	background-color:rgba(0,0,0,1);
 	background-image:url('media/dupla-02.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
