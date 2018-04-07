@@ -12,7 +12,7 @@ body{
 
 h1, h2, h3, h4{
 	font-family: 'Abel', sans-serif;
-	font-weight:700;
+	font-weight:1000;
 }
 
 h1{
@@ -40,7 +40,7 @@ h3{
 
 h4, h5, h6{
 	font-weight:left;
-	font-weight:600;
+	font-weight:800;
 }
 
 #contenido{width:98%; margin:1% auto;}
@@ -94,7 +94,7 @@ video{
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:rgba(0,0,0,1);
+	background-color:rgba(40,40,40,1);
 	background-image:url('media/dupla-01.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
@@ -111,7 +111,7 @@ video{
 .segunda{
 	min-height:300px;
 	text-align:right;
-	background-color:rgba(0,0,0,1);
+	background-color:rgba(40,40,40,1);
 	background-image:url('media/dupla-02.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
