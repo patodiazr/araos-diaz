@@ -118,14 +118,11 @@ video{
 	background-size:auto 100%;
 }
 
-.segunda h4{padding: 2% 2% 1% 40%;
-color:rgba(0,0,0,0.6)}
+.segunda h4{padding: 2% 2% 1% 40%;color:rgba(0,0,0,0.6)}
 
-.segunda h5{padding: 1% 2% 2% 40%; margin-bottom:5em; letter-spacing:0.1em;
-color:rgba(0,0,0,0.6)}
+.segunda h5{padding: 1% 2% 2% 40%; margin-bottom:5em; letter-spacing:0.1em;color:rgba(0,0,0,0.6)}
 
-.segunda p{padding: 2% 2% 2% 40%;
-color:rgba(0,0,0,0.6)}
+.segunda p{padding: 2% 2% 2% 40%;color:rgba(0,0,0,0.6)}
 
 .segunda address{padding: 2% 2% 2% 40%; font-size:0.9em; font-style:normal;}
 
